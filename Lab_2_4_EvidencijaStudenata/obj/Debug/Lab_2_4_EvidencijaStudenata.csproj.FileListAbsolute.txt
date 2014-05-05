@@ -1,0 +1,11 @@
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Lab_2_4_EvidencijaStudenata\Lab_2_4_EvidencijaStudenata\bin\Debug\Lab_2_4_EvidencijaStudenata.exe
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Lab_2_4_EvidencijaStudenata\Lab_2_4_EvidencijaStudenata\bin\Debug\Lab_2_4_EvidencijaStudenata.pdb
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Lab_2_4_EvidencijaStudenata\Lab_2_4_EvidencijaStudenata\bin\Debug\System.Data.SQLite.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Lab_2_4_EvidencijaStudenata\Lab_2_4_EvidencijaStudenata\obj\Debug\Lab_2_4_EvidencijaStudenata.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Lab_2_4_EvidencijaStudenata\Lab_2_4_EvidencijaStudenata\obj\Debug\Lab_2_4_EvidencijaStudenata.GlavnaForma.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Lab_2_4_EvidencijaStudenata\Lab_2_4_EvidencijaStudenata\obj\Debug\Lab_2_4_EvidencijaStudenata.NoviStudent.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Lab_2_4_EvidencijaStudenata\Lab_2_4_EvidencijaStudenata\obj\Debug\Lab_2_4_EvidencijaStudenata.NoviTim.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Lab_2_4_EvidencijaStudenata\Lab_2_4_EvidencijaStudenata\obj\Debug\Lab_2_4_EvidencijaStudenata.Properties.Resources.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Lab_2_4_EvidencijaStudenata\Lab_2_4_EvidencijaStudenata\obj\Debug\Lab_2_4_EvidencijaStudenata.csproj.GenerateResource.Cache
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Lab_2_4_EvidencijaStudenata\Lab_2_4_EvidencijaStudenata\obj\Debug\Lab_2_4_EvidencijaStudenata.exe
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Lab_2_4_EvidencijaStudenata\Lab_2_4_EvidencijaStudenata\obj\Debug\Lab_2_4_EvidencijaStudenata.pdb
